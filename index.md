@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## This will be a website to show my portfolio. Coming Soon.
 
 You can use the [editor on GitHub](https://github.com/jenniferjjchen/jenniferchen.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
